@@ -663,3 +663,4 @@ Day 8 : 13th Dec. 2024
   728  cd ..
   729  clear
   730  history
+install jdk
