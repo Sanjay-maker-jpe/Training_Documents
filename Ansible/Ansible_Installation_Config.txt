@@ -99,8 +99,8 @@ chmod 600 /home/ansibleadmin/.ssh/*
 
 # Use the private IP addr. of AN1 and AN2
 
-ssh ansibleadmin@172.31.2.214
-ssh ansibleadmin@172.31.8.11
+ssh ansibleadmin@172.31.3.202
+ssh ansibleadmin@172.31.0.64
 
 chown -R devopsadmin:devopsadmin /etc/ansible
 
